@@ -6,12 +6,22 @@
 * CGP Grey
 * Tom Scott
 
-## General Science
+## Science
 * SciShow
 * minutephysics
 * MinuteEarth
 * Brainiac75
 * The Backyard Scientist
+* Cody'sLab
+* Vsauce
+* Veritasium
+* thebrainscoop
+* Periodic Videos
+* Sixty Symbols
+*
+## Math(s)
+* Vi Hart
+* Numberphile
 
 ## Linguistics and Worldbuilding
 * Xidnaf
@@ -27,11 +37,6 @@
 ## Programming
 * Bisqwit
 * kupala (khoraski)
-
-## Science
-* Cody'sLab
-* Vsauce
-* Veritasium
 
 ## Futurism
 * Isaac Arthur
@@ -58,6 +63,8 @@
 * The Signal Path
 * HDXFH
 * GreatScott!
+* Photonicinduction
+* Sufficiently Advanced
 
 ## Retro Technology
 * Lazy Game Reviews (LGR)
