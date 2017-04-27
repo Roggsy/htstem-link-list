@@ -1,10 +1,10 @@
 ## The Almighty
-* carykh
-* Abacaba
+* [carykh](https://www.youtube.com/user/carykh)
+* [Abacaba](https://www.youtube.com/user/1abacaba1)
 
 ## General
-* CGP Grey
-* Tom Scott
+* [CGP Grey](https://www.youtube.com/user/CGPGrey)
+* [Tom Scott](https://www.youtube.com/user/enyay)
 
 ## Science
 * SciShow
@@ -15,6 +15,7 @@
 * Cody'sLab
 * Vsauce
 * Veritasium
+* ASAP Science
 
 ## Linguistics and Worldbuilding
 * Xidnaf
@@ -83,8 +84,8 @@
 
 ## HTSTEM Regulars
 * ender_scythe
+* [Bottersnike](https://www.youtube.com/channel/UC0zWbhhUxpmwUNwtilOHc-g)
 * Zwei
 * Noahkiq
 * Lock
 * hanss314
-* Bottersnike
