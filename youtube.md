@@ -68,24 +68,24 @@
 * Classic Gaming Quarterly
 
 ## The History of Video Games, and How They Work
-* Ahoy
-* pannenkoek2012
-* stryder7x
+* [Ahoy](https://www.youtube.com/user/XboxAhoy)
+* [pannenkoek2012](https://www.youtube.com/user/pannenkoek2012)
+* [stryder7x](https://www.youtube.com/channel/UCYDnJiF0_RqSjkjvjRbG1tA)
 
 ## Minecraft Redstone (general computing concepts)
-* n00b_asaurus
-* Properinglish19
-* bennyscube
-* Koala_Steamed
+* [n00b_asaurus](https://www.youtube.com/user/n00basaurous)
+* [Properinglish19](https://www.youtube.com/user/Properinglish19)
+* [bennyscube](https://www.youtube.com/user/bennyscube)
+* [Koala_Steamed](https://www.youtube.com/user/KoalaSteamed)
 
 ## Comedy
-* ElectroBOOM
-* Photonicinduction
+* [ElectroBOOM](https://www.youtube.com/user/msadaghd)
+* [Photonicinduction](https://www.youtube.com/user/Photonvids)
 
 ## HTSTEM Regulars
-* ender_scythe
+* [ender_scythe](https://www.youtube.com/channel/UCSzhvRk3O5JeLDQDx0KeoSQ)
 * [Bottersnike](https://www.youtube.com/channel/UC0zWbhhUxpmwUNwtilOHc-g)
 * Zwei
-* Noahkiq
+* [Noahkiq](https://www.youtube.com/channel/UCNqrdo-sFrq7zyEiBBX42dQ)
 * Lock
 * hanss314
