@@ -18,33 +18,33 @@
 * [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE)
 
 ## Linguistics and Worldbuilding
-* Xidnaf
-* Artifexian
+* [Xidnaf](https://www.youtube.com/user/Xidnaf)
+* [Artifexian](https://www.youtube.com/user/Artifexian)
 
 ## Computer Sciences
-* Computerphile
-* Esperantanaso (ostracod)
+* [Computerphile](https://www.youtube.com/user/Computerphile)
+* [Esperantanaso (ostracod)](https://www.youtube.com/user/Esperantanaso)
 
 ## How Places Operate
-* EEVdiscover
+* [EEVdiscover](https://www.youtube.com/channel/UCkGvUEt8iQLmq3aJIMjT2qQ)
 
 ## Programming
-* Bisqwit
-* kupala (khoraski)
+* [Bisqwit](https://www.youtube.com/user/Bisqwit)
+* [kupala (khoraski)](https://www.youtube.com/user/khoraski)
 
 ## Futurism
-* Isaac Arthur
+* [Isaac Arthur](https://www.youtube.com/channel/UCZFipeZtQM5CKUjx6grh54g)
 
 ## Malicious Software & Hardware
-* danooct1
-* rogueamp
+* [danooct1](https://www.youtube.com/user/danooct1)
+* [rogueamp](https://www.youtube.com/user/rogueamp)
 
 ## KSP and Space
-* Bob Fitch
-* GrunfWorks
-* Bradley Whistance
-* Matt Lowne
-* Scott Manley
+* [Bob Fitch](https://www.youtube.com/user/BeazaYT)
+* [GrunfWorks](https://www.youtube.com/user/GrunfWorks)
+* [Bradley Whistance](https://www.youtube.com/user/nEvermore930)
+* [Matt Lowne](https://www.youtube.com/channel/UCiW7-IEQCTqS9l7223whHZA)
+* [Scott Manley](https://www.youtube.com/user/szyzyg)
 
 ## Electrical Engineering
 * Mr Carlson's Lab
