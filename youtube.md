@@ -88,5 +88,5 @@
 * [Bottersnike](https://www.youtube.com/channel/UC0zWbhhUxpmwUNwtilOHc-g)
 * [Zwei](https://www.youtube.com/user/ZweiSpeedruns)
 * [Noahkiq](https://www.youtube.com/channel/UCNqrdo-sFrq7zyEiBBX42dQ)
-* Lock
+* [Lock](https://www.youtube.com/user/1LockRay)
 * hanss314
