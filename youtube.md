@@ -47,25 +47,26 @@
 * [Scott Manley](https://www.youtube.com/user/szyzyg)
 
 ## Electrical Engineering
-* Mr Carlson's Lab
-* mikeselectricstuff
-* Ben Eater
-* EEVblog
-* Afrotechmods
-* Julian Ilett
-* MrJohhhnnnyyy
-* The Signal Path
-* HDXFH
-* GreatScott!
+* [Mr Carlson's Lab](https://www.youtube.com/user/MrCarlsonsLab)
+* [mikeselectricstuff](https://www.youtube.com/user/mikeselectricstuff)
+* [Ben Eater](https://www.youtube.com/user/eaterbc)
+* [EEVblog](https://www.youtube.com/user/EEVblog)
+* [Afrotechmods](https://www.youtube.com/user/Afrotechmods)
+* [Julian Ilett](https://www.youtube.com/user/julius256)
+* [MrJohhhnnnyyy](https://www.youtube.com/channel/UCGKoDyrC8Pc93-zqdDvMj9A)
+* [The Signal Path](https://www.youtube.com/user/TheSignalPathBlog)
+* [HDXFH](https://www.youtube.com/user/HDXFH)
+* [GreatScott!](https://www.youtube.com/user/greatscottlab)
+* [bigclivedotcom](https://www.youtube.com/user/bigclivedotcom)
 
 ## Retro Technology
-* Lazy Game Reviews (LGR)
-* Techmoan
-* The 8-Bit Guy (The iBookguy)
-* Nolstalgia Nerd
-* Kim Justice
-* The Obsolete Geek
-* Classic Gaming Quarterly
+* [Lazy Game Reviews (LGR)](https://www.youtube.com/user/phreakindee)
+* [Techmoan](https://www.youtube.com/user/Techmoan)
+* [The 8-Bit Guy (The iBookguy)](https://www.youtube.com/user/adric22)
+* [Nolstalgia Nerd](https://www.youtube.com/user/nostalgianerdvideos)
+* [Kim Justice](https://www.youtube.com/user/elmyrdehory)
+* [The Obsolete Geek](https://www.youtube.com/user/robivy64)
+* [Classic Gaming Quarterly](https://www.youtube.com/user/CGQuarterly)
 
 ## The History of Video Games, and How They Work
 * [Ahoy](https://www.youtube.com/user/XboxAhoy)
