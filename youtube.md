@@ -86,7 +86,7 @@
 ## HTSTEM Regulars
 * [ender_scythe](https://www.youtube.com/channel/UCSzhvRk3O5JeLDQDx0KeoSQ)
 * [Bottersnike](https://www.youtube.com/channel/UC0zWbhhUxpmwUNwtilOHc-g)
-* Zwei
+* [Zwei](https://www.youtube.com/user/ZweiSpeedruns)
 * [Noahkiq](https://www.youtube.com/channel/UCNqrdo-sFrq7zyEiBBX42dQ)
 * Lock
 * hanss314
