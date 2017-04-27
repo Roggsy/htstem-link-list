@@ -22,7 +22,6 @@
 * [Artifexian](https://www.youtube.com/user/Artifexian)
 
 ## Computer Sciences
-
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 * [Esperantanaso (ostracod)](https://www.youtube.com/user/Esperantanaso)
 
@@ -90,5 +89,5 @@
 * [Zwei](https://www.youtube.com/user/ZweiSpeedruns)
 * [Noahkiq](https://www.youtube.com/channel/UCNqrdo-sFrq7zyEiBBX42dQ)
 * [Lock](https://www.youtube.com/user/1LockRay)
-* hanss314
+* [hanss314](https://www.youtube.com/channel/UCskaw7JcDe2UfvQxBIzUOqA)
 * Roggyroo
