@@ -7,15 +7,15 @@
 * [Tom Scott](https://www.youtube.com/user/enyay)
 
 ## Science
-* SciShow
-* minutephysics
-* MinuteEarth
-* Brainiac75
-* The Backyard Scientist
-* Cody'sLab
-* Vsauce
-* Veritasium
-* ASAP Science
+* [SciShow](https://www.youtube.com/user/scishow)
+* [minutephysics](https://www.youtube.com/user/minutephysics)
+* [MinuteEarth](https://www.youtube.com/user/minuteearth)
+* [Brainiac75](https://www.youtube.com/user/brainiac75)
+* [The Backyard Scientist](https://www.youtube.com/user/TheBackyardScientist)
+* [Cody'sLab](https://www.youtube.com/user/theCodyReeder)
+* [Vsauce](https://www.youtube.com/user/Vsauce)
+* [Veritasium](https://www.youtube.com/user/1veritasium)
+* [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE)
 
 ## Linguistics and Worldbuilding
 * Xidnaf
